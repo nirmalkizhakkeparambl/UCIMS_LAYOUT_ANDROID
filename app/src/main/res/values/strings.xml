@@ -1,0 +1,229 @@
+<resources>
+    <string name="app_name">Unauthorized Layouts</string>
+    <string name="rationale_camera">This app needs access to your camera so you can take pictures.</string>
+    <string name="rationale_location_contacts">This app needs access to your location and contacts to know where and who you are.</string>
+    <string name="rationale_sms">This app needs access to your sms to read all your great messages.</string>
+    <string name="returned_from_app_settings_to_activity">
+        Returned from app settings to APP with the following permissions:
+        \n\nCamera: %s
+        \nLocation: %s
+    </string>
+    <string name="camera">Camera</string>
+    <string name="location_and_contacts">Location and Contacts</string>
+    <string name="sms">SMS</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="hello_developer">Hello Developer!</string>
+    <string name="android_development_community">Android Development Community</string>
+    <string name="login">Login</string>
+    <string name="you_are_not_a_member_register">You are not a member? <b><font fgcolor='#3CDA85'>Register.</font></b></string>
+    <string name="nice_to_see_you">Nice to see you!</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <array name="Kurnool">
+        <item>Select ULB</item>
+        <item>KUDA</item>
+        <item>ADONI</item>
+        <item>YEMMIGANUR</item>
+        <item>NANDIKOTKUR</item>
+        <item>ALLAGADDA</item>
+        <item>NANDYAL</item>
+        <item>GUDUR</item>
+        <item>ATMAKUR</item>
+        <item>DHONE</item>
+        <item>KURNOOL</item>
+    </array>
+
+    <array name="Anantapur">
+        <item>Select ULB</item>
+        <item>AHUDA</item>
+        <item>PUDA</item>
+        <item>ANANTAPUR</item>
+        <item>KALYANADURGAM</item>
+        <item>TADIPATRI</item>
+        <item>MADAKASIRA</item>
+        <item>RAYADURG</item>
+        <item>KADIRI</item>
+        <item>HINDUPUR</item>
+        <item>DHARMAVARAM</item>
+        <item>GOOTY</item>
+        <item>GUNTAKAL</item>
+        <item>PAMIDI</item>
+        <item>PUTTAPARTHI</item>
+    </array>
+    <array name="Chittoor">
+        <item>Select ULB</item>
+        <item>CUDA</item>
+        <item>TUDA</item>
+        <item>PKMUDA</item>
+        <item>MADANAPALLE</item>
+        <item>PUNGANUR</item>
+        <item>CHITTOOR</item>
+        <item>NAGARI</item>
+        <item>PALAMANERU</item>
+        <item>PUTTUR</item>
+        <item>TIRUPATHI</item>
+        <item>SRIKALAHASTI</item>
+    </array>
+    <array name="EastGodavari">
+        <item>Select ULB</item>
+        <item>GUDA</item>
+        <item>PCPIR</item>
+        <item>AMALAPURAM</item>
+        <item>PEDDAPURAM</item>
+        <item>GOLLAPROLU</item>
+        <item>PITHAPURAM</item>
+        <item>RAMACHANDRAPURAM</item>
+        <item>SAMALKOT</item>
+        <item>TUNI</item>
+        <item>Mummidivaram</item>
+        <item>YELESWARAM</item>
+        <item>RAJAHMUNDRY</item>
+        <item>Mandapet</item>
+        <item>KAKINADA</item>
+
+    </array>
+    <array name="Guntur">
+        <item>Select ULB</item>
+        <item>CRDA</item>
+        <item>BAPATLA</item>
+        <item>TENALI</item>
+        <item>CHILAKALURIPETA</item>
+        <item>SATTENAPALLE</item>
+        <item>REPALLE</item>
+        <item>MACHERLA</item>
+        <item>PIDUGURALLA</item>
+        <item>VINUKONDA</item>
+        <item>NARASARAOPETA</item>
+        <item>TADEPALLI</item>
+        <item>GUNTUR</item>
+        <item>MANGALAGIRI</item>
+        <item>PONNUR</item>
+    </array>
+    <array name="Krishna">
+        <item>Select ULB</item>
+        <item>CRDA</item>
+        <item>MUDA</item>
+        <item>VUYYURU</item>
+        <item>VIJAYAWADA</item>
+        <item>GUDIVADA</item>
+        <item>JAGGAIAHPETA</item>
+        <item>MACHILIPATNAM</item>
+        <item>Nuzividu</item>
+        <item>PEDANA</item>
+        <item>NANDIGAMA</item>
+        <item>TIRUVURU</item>
+    </array>
+    <array name="Nellore">
+        <item>Select ULB</item>
+        <item>NUDA</item>
+        <item>KAVALI</item>
+        <item>NELLORE</item>
+        <item>NAIDUPET</item>
+        <item>SULLURPETA</item>
+        <item>VENKATAGIRI</item>
+    </array>
+    <array name="Prakasam">
+        <item>Select ULB</item>
+        <item>OUDA</item>
+        <item>CHEMAKURTHY</item>
+        <item>CHIRALA</item>
+        <item>GIDDALUR</item>
+        <item>ADDANKI</item>
+        <item>MARKAPUR</item>
+        <item>KANDUKUR</item>
+        <item>ONGOLE</item>
+        <item>KANIGIRI</item>
+    </array>
+    <array name="Srikakulam">
+        <item>Select ULB</item>
+        <item>SUDA</item>
+        <item>PALAKONDA</item>
+        <item>ICHAPURAM</item>
+        <item>PALASA KASIBUGGA</item>
+        <item>SRIKAKULAM</item>
+        <item>RAJAM</item>
+        <item>AMUDALAVALASA</item>
+    </array>
+    <array name="GreaterVishakapatanam">
+        <item>Select ULB</item>
+        <item>VMRDA</item>
+        <item>PCPIR</item>
+        <item>ANAKAPALLE</item>
+        <item>BHEEMUNIPATNAM</item>
+        <item>Yellamanchali</item>
+        <item>GREATER VISAKHAPATNAM</item>
+        <item>NARASIPATNAM</item>
+    </array>
+    <array name="Vizianagaram">
+        <item>Select ULB</item>
+        <item>VMRDA</item>
+        <item>BUDA</item>
+        <item>NELLIMARLA</item>
+        <item>BOBBILI</item>
+        <item>PARVATHIPURAM</item>
+        <item>VIJAYANAGARAM</item>
+        <item>SALURU</item>
+    </array>
+    <array name="WestGodavari">
+        <item>Select ULB</item>
+        <item>EUDA</item>
+        <item>BHIMAVARAM</item>
+        <item>ELURU</item>
+        <item>KOVVUR</item>
+        <item>NARSAPUR</item>
+        <item>NIDADHAVOLE</item>
+        <item>TADEPALLIGUDEM</item>
+        <item>JANGAREDDYGUDEM</item>
+        <item>TANUKU</item>
+        <item>PALAKOLLU</item>
+    </array>
+    <array name="YSRKadapa">
+        <item>Select ULB</item>
+        <item>AUDA</item>
+        <item>PRODDATUR</item>
+        <item>RAYACHOTY</item>
+        <item>MYDUKURU</item>
+        <item>YERRAGUNTLA</item>
+        <item>JAMMALAMADUGU</item>
+        <item>RAJAMPETA</item>
+        <item>BUDWEL</item>
+        <item>PULIVENDULA</item>
+        <item>KADAPA</item>
+    </array>
+    <array name="District">
+        <item>Select District</item>
+        <item>KURNOOL</item>
+        <item>ANANTAPUR</item>
+        <item>GUNTUR</item>
+        <item>PRAKASAM</item>
+        <item>WEST GODAVARI</item>
+        <item>YSR KADAPA</item>
+        <item>VISKHAPATNAM</item>
+        <item>VIZIANAGARAM</item>
+        <item>KRISHNA</item>
+        <item>SRIKAKULAM</item>
+        <item>CHITTOOR</item>
+        <item>EAST GODAVARI</item>
+        <item>NELLORE</item>
+    </array>
+
+
+    <array name="Plots">
+        <item>Select any option</item>
+        <item>Gravel Road</item>
+        <item>Erthen Road</item>
+        <item>Gravel Road with Plot Stones</item>
+        <item>Plot Stones</item>
+        <item>Fencing the land Errecting Plot Stones</item>
+        <item>Laying Roads, Errecting Electric Polls and Errecting Plot Stones</item>
+
+    </array>
+</resources>

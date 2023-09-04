@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Profile.GuideMe">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Instructions"
+            android:textColor="@color/black"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="40dp"
+            android:textSize="20dp"/>
+        <View
+
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="20dp"
+            android:background="@color/lightgrey" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Login Page"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="20dp"
+            android:textSize="20dp"
+            android:layout_marginLeft="20dp"
+            />
+
+        <TextView
+            android:fontFamily="@font/mm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="A login page requires the user to enter a valid login ID and password to access the application"
+            android:layout_marginTop="30dp"
+            android:textSize="20dp"
+            android:layout_marginLeft="20dp"
+            />
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="20dp"
+            android:background="@color/lightgrey" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Dashboard"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            android:textSize="20dp"
+            android:layout_marginLeft="20dp"
+            />
+
+
+
+        <TextView
+            android:fontFamily="@font/mm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Dashboard consits of services offered in this application which are listed below:"
+            android:layout_marginTop="30dp"
+            android:textSize="20dp"
+            android:layout_marginLeft="20dp"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="-> Add "
+            android:fontFamily="@font/mm"
+            android:layout_marginTop="10dp"
+            android:textSize="20dp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="20dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="-> Edit "
+            android:layout_marginTop="10dp"
+            android:textSize="20dp"
+            android:fontFamily="@font/mm"
+            android:textColor="@color/black"
+            android:layout_marginLeft="20dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="-> Sync "
+            android:layout_marginTop="10dp"
+            android:textSize="20dp"
+            android:layout_marginLeft="20dp"
+            android:fontFamily="@font/mm"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="-> Logout "
+            android:layout_marginTop="10dp"
+            android:textSize="20dp"
+            android:layout_marginLeft="20dp"
+            android:fontFamily="@font/mm"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="-> Guide "
+            android:layout_marginTop="10dp"
+            android:textSize="20dp"
+            android:layout_marginLeft="20dp"
+            android:fontFamily="@font/mm"
+            android:textColor="@color/black"
+            />
+
+        <View
+            android:id="@+id/view2"
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="20dp"
+            android:background="@color/lightgrey" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add "
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            android:textSize="20dp"
+            android:layout_marginLeft="20dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="In this activity your able to see the form for Unauthorized layout where the user can fill the valid details of the layout and he can pass the data to Government server "
+            android:layout_marginTop="30dp"
+            android:textSize="20dp"
+            android:layout_marginLeft="20dp"
+            android:fontFamily="@font/mm"
+            />
+        <View
+            android:id="@+id/view3"
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="20dp"
+            android:background="@color/lightgrey" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Edit "
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            android:textSize="20dp"
+            android:layout_marginLeft="20dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="In this activity the user can edit the form after uploading all details in add form activity and the user will get the details of previously he added in the form  "
+            android:layout_marginTop="30dp"
+
+            android:textSize="20dp"
+            android:layout_marginLeft="20dp"
+            android:fontFamily="@font/mm"
+            />
+        <View
+            android:id="@+id/view4"
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="20dp"
+            android:background="@color/lightgrey" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sync "
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            android:textSize="20dp"
+            android:layout_marginLeft="20dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="In this acitvity the user can sync the data from local database after the form is added without internet connection "
+            android:layout_marginTop="30dp"
+            android:fontFamily="@font/mm"
+            android:textSize="20dp"
+            android:layout_marginLeft="20dp"
+            />
+        <View
+            android:id="@+id/view5"
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="20dp"
+            android:background="@color/lightgrey" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Logout"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            android:textSize="20dp"
+            android:layout_marginLeft="20dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Logout is the activity whenever the user wants to exit from application he can click the logout and it will be redirected to login page "
+            android:layout_marginTop="30dp"
+            android:textSize="20dp"
+            android:fontFamily="@font/mm"
+            android:layout_marginLeft="20dp"
+            />
+
+        <View
+            android:id="@+id/view6"
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="20dp"
+            android:background="@color/lightgrey" />
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Developed By"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="5dp"
+                android:fontFamily="@font/mm"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                />
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="83dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="30dp"
+                android:src="@drawable/logogisfy" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="100dp"
+                android:fontFamily="@font/mm"
+                android:textColor="@color/black"
+                android:layout_marginLeft="10dp"
+                android:text="© 2015-2020 GISFY. All rights reserved Privacy Policy" />
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+</ScrollView>

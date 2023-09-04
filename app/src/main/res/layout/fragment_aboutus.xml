@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="About Us"
+            android:textSize="20dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="40dp"
+            android:textStyle="bold"/>
+
+        <View
+            android:id="@+id/view6"
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="20dp"
+            android:background="@color/lightgrey" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="The Department looks after the subject of planning and development in urban and rural areas. The development is achieved through Master Plans prepared for the urban centers and rural areas by way of Master Plans and indicative Land Use Plans. Development plans for Mandal Headquarters are prepared by the department. The planned development is achieved through approval of layouts and by regulating the developments through building rules and zoning regulations and approval of industrial institutions."
+                android:textSize="20dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/ml"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="20dp"
+                android:background="@color/lightgrey" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="The Directorate of Town and Country Planning has two distinct functions, one under urban front and the other on the rural front. In respect of urban area particularly the Municipal towns are planned and regulated under the provisions of APTP Act,1920 under the provisions of local body acts, viz., Municipal Corporation Act, Andhra Pradesh Municipalities act and A.P. Urban Areas (Development) Act and A.P. Cinematography Act. In respect of Rural Areas, the developments are regulated under the provisions of Andhra Pradesh Panchayat Raj Act, 1992 in respect of approval layouts and granting permissions for industries and installations."
+                android:textSize="20dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:fontFamily="@font/ml"
+                android:layout_marginTop="20dp"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="20dp"
+                android:background="@color/lightgrey" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="The Department assists the Government in all Town and Country Planning matters as well as in coordinating with various departments involved in area development like A.P. Housing Board, A.P. State Housing and Urban Development Corporations. A.P. Industrial and infrastructure corporation, Industries Department etc."
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:justificationMode="inter_word"
+                android:fontFamily="@font/ml"
+                />
+
+            <View
+                android:id="@+id/view"
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="20dp"
+                android:background="@color/lightgrey" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="THE TECHNICAL STATUTORY FUNCTIONS"
+                android:textSize="20dp"
+                android:fontFamily="@font/ml"
+                android:textColor="#000000"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="20dp"
+                android:textSize="20dp"
+                android:fontFamily="@font/ml"
+
+                android:text="-> Preparation of General Town Planning Schemes (Master Plans)."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="20dp"
+                android:textSize="20dp"
+                android:fontFamily="@font/ml"
+
+                android:text="-> Technical Approval of Layouts."/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="20dp"
+                android:textSize="20dp"
+                android:fontFamily="@font/ml"
+
+                android:text="-> Technical Approval of Buildings Plans."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="20dp"
+                android:textSize="20dp"
+                android:fontFamily="@font/ml"
+
+                android:text="-> Preparation and approval of type designs for community and public buildings."/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="20dp"
+                android:textSize="20dp"
+                android:fontFamily="@font/ml"
+                android:text="-> Technical Clearance of Installations (Industries)."/>
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:background="@color/lightgrey" />
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                >
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:text="Developed by GISFY Private Limited"
+                   android:textColor="@color/black"
+                    android:fontFamily="@font/mm"
+                    android:layout_marginLeft="16dp"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="50dp"
+                    android:fontFamily="@font/mm"
+                    android:textColor="@color/black"
+                    android:layout_marginLeft="16dp"
+                    android:text="© 2015-2020 GISFY. All rights reserved Privacy Policy" />
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

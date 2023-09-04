@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "387460331899",
+    "firebase_url": "https://ucims-ee854.firebaseio.com",
+    "project_id": "ucims-ee854",
+    "storage_bucket": "ucims-ee854.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387460331899:android:7fa4bbf2a6083588d865de",
+        "android_client_info": {
+          "package_name": "com.gisfy.unauthorizedlayouts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387460331899-93a7bs8okl9l1f6sntaqgesaqg2s73il.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gisfy.unauthorizedlayouts",
+            "certificate_hash": "f4cd31b8282af92e60fcb6ad97aff06c14558a82"
+          }
+        },
+        {
+          "client_id": "387460331899-e407trtipcsfk0tv1o68f27uhe0tia9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBacB3ajGHPPb_MDsYIFOSCZSGdjxezUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387460331899-e407trtipcsfk0tv1o68f27uhe0tia9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
